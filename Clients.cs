@@ -8,5 +8,7 @@ namespace PZ7
 {
     internal class Clients : Observer
     {
+        public string name { get; set; }
+
     }
 }

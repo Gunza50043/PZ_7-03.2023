@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace PZ7
 {
-    internal class Observer
+    interface Observer
     {
+
     }
 }
